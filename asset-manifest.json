@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kamaleshgogi/Web-Portfolio.git/static/css/main.7bd00e50.css",
+    "main.js": "/kamaleshgogi/Web-Portfolio.git/static/js/main.bfceb367.js",
+    "static/js/453.b05d8aa5.chunk.js": "/kamaleshgogi/Web-Portfolio.git/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock02.png": "/kamaleshgogi/Web-Portfolio.git/static/media/mock02.cc754c84e8bac7c0ea43.png",
+    "static/media/mock01.png": "/kamaleshgogi/Web-Portfolio.git/static/media/mock01.9d9739ba195bd873cbc7.png",
+    "static/media/mock04.png": "/kamaleshgogi/Web-Portfolio.git/static/media/mock04.3ccc6a663f95f56aa5a9.png",
+    "static/media/mock03.png": "/kamaleshgogi/Web-Portfolio.git/static/media/mock03.48b28b68fced792845b9.png",
+    "static/media/bg-light.png": "/kamaleshgogi/Web-Portfolio.git/static/media/bg-light.9ef50513c250dea5b740.png",
+    "static/media/bg-dark.png": "/kamaleshgogi/Web-Portfolio.git/static/media/bg-dark.19d9b0f100411f47c1c4.png",
+    "index.html": "/kamaleshgogi/Web-Portfolio.git/index.html",
+    "main.7bd00e50.css.map": "/kamaleshgogi/Web-Portfolio.git/static/css/main.7bd00e50.css.map",
+    "main.bfceb367.js.map": "/kamaleshgogi/Web-Portfolio.git/static/js/main.bfceb367.js.map",
+    "453.b05d8aa5.chunk.js.map": "/kamaleshgogi/Web-Portfolio.git/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd00e50.css",
+    "static/js/main.bfceb367.js"
+  ]
+}
