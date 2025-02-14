@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kamaleshgogi/react-portfolio.git/static/css/main.1093976c.css",
-    "main.js": "/kamaleshgogi/react-portfolio.git/static/js/main.890a3112.js",
-    "static/js/453.b05d8aa5.chunk.js": "/kamaleshgogi/react-portfolio.git/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock02.png": "/kamaleshgogi/react-portfolio.git/static/media/mock02.cc754c84e8bac7c0ea43.png",
-    "static/media/mock01.png": "/kamaleshgogi/react-portfolio.git/static/media/mock01.9d9739ba195bd873cbc7.png",
-    "static/media/mock04.png": "/kamaleshgogi/react-portfolio.git/static/media/mock04.3ccc6a663f95f56aa5a9.png",
-    "static/media/mock03.png": "/kamaleshgogi/react-portfolio.git/static/media/mock03.48b28b68fced792845b9.png",
-    "static/media/bg-light.png": "/kamaleshgogi/react-portfolio.git/static/media/bg-light.9ef50513c250dea5b740.png",
-    "static/media/bg-dark.png": "/kamaleshgogi/react-portfolio.git/static/media/bg-dark.19d9b0f100411f47c1c4.png",
-    "index.html": "/kamaleshgogi/react-portfolio.git/index.html",
-    "main.1093976c.css.map": "/kamaleshgogi/react-portfolio.git/static/css/main.1093976c.css.map",
-    "main.890a3112.js.map": "/kamaleshgogi/react-portfolio.git/static/js/main.890a3112.js.map",
-    "453.b05d8aa5.chunk.js.map": "/kamaleshgogi/react-portfolio.git/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.89cb3230.css",
+    "main.js": "/react-portfolio/static/js/main.41e4820a.js",
+    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock02.png": "/react-portfolio/static/media/mock02.cc754c84e8bac7c0ea43.png",
+    "static/media/mock01.png": "/react-portfolio/static/media/mock01.9d9739ba195bd873cbc7.png",
+    "static/media/mock04.png": "/react-portfolio/static/media/mock04.3ccc6a663f95f56aa5a9.png",
+    "static/media/mock03.png": "/react-portfolio/static/media/mock03.48b28b68fced792845b9.png",
+    "static/media/bg-light.png": "/react-portfolio/static/media/bg-light.9ef50513c250dea5b740.png",
+    "static/media/bg-dark.png": "/react-portfolio/static/media/bg-dark.19d9b0f100411f47c1c4.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.89cb3230.css.map": "/react-portfolio/static/css/main.89cb3230.css.map",
+    "main.41e4820a.js.map": "/react-portfolio/static/js/main.41e4820a.js.map",
+    "453.b05d8aa5.chunk.js.map": "/react-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1093976c.css",
-    "static/js/main.890a3112.js"
+    "static/css/main.89cb3230.css",
+    "static/js/main.41e4820a.js"
   ]
 }
