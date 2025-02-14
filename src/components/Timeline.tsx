@@ -24,8 +24,8 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Mercury Studio</h4>
             <p>
               <ul>
-                <li>Designed and developed responsive websites and web apps using React, HTML/CSS, and JavaScript, alongside custom Node.js/Express APIs for dynamic functionality.</li>
-                <li>Independently managed client relationships and project timelines, delivering projects on time and within budget.</li>
+                <li>Designed and developed responsive websites and web applications using React, HTML/CSS, and JavaScript, alongside custom Node.js/Express APIs for dynamic functionality.</li>
+                <li>Managed client relationships and project timelines independently, ensuring on-time delivery within budget.</li>
               </ul>
             </p>
           </VerticalTimelineElement>
@@ -39,8 +39,8 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">The Youth Herald, Ottawa</h4>
             <p>
             <ul>
-                <li>Modernized landing pages, increasing user engagement by 37%, and implemented a blog strategy that boosted organic traffic by 23%.</li>
-                <li>Collaborated with cross-functional teams to deliver user-centric designs and built dynamic components using React to enhance website functionality.</li>
+                <li>Revamped landing pages, resulting in a 37% increase in user engagement, and implemented a blog strategy that boosted organic traffic by 23%.</li>
+                <li>Collaborated with cross-functional teams to deliver user-centric designs and built dynamic React components to enhance website functionality.</li>
               </ul>            
             </p>
           </VerticalTimelineElement>
@@ -54,7 +54,7 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Algonquin College, Ottawa, ON</h4>
             <p>
               <ul>
-                <li>Studied user experience design, front-end development, and digital marketing, gaining proficiency in Adobe Creative Suite, Figma, and WordPress.</li>
+                <li>Gained expertise in user experience design, front-end development, and digital marketing, becoming proficient in Adobe Creative Suite, Figma, and WordPress.</li>
                 <li>Developed a portfolio of web design projects, including a responsive e-commerce site and a mobile app prototype for a local business.</li>
               </ul>
             </p>
@@ -69,8 +69,8 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Honeycomb, Mumbai</h4>
             <p>
               <ul>
-                <li>Designed and developed a user-friendly restaurant website, aligning content with brand messaging and creating engaging features like a newsletter sign-up form.</li>
-                <li>Conducted user research, wireframing, and prototyping while gaining hands-on experience in content strategy and SEO optimization.</li>
+                <li>Designed and developed a user-friendly restaurant website, aligning content with brand messaging and adding engaging features like a newsletter sign-up form.</li>
+                <li>Conducted user research, wireframing, and prototyping, while acquiring hands-on experience in content strategy and SEO optimization.</li>
               </ul>            
             </p>
           </VerticalTimelineElement>

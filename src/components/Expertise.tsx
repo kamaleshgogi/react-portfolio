@@ -34,12 +34,11 @@ const labelsSecond = [
 
 const labelsThird = [
     "OpenAI",
-    "Groq",
+    "LLM",
     "LangChain",
-    "Qdrant",
+    "ChatGPT",
     "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Copilot",
 ];
 
 function Expertise() {
@@ -51,7 +50,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faSwatchbook} size="3x"/>
                     <h3>Design</h3>
-                    <p>I specialize in creating visuallyfaReactand functiona brand identities and user needs. With expertise in graphic design, branding, and marketing collateral, I deliver cohesive visual solutions that enhance user engagement and brand loyalty.</p>
+                    <p>I specialize in crafting visually compelling and functional user interfaces that align with brand identities and user needs. With expertise in UI/UX design, branding, and creating intuitive digital experiences, I deliver cohesive designs that enhance usability, foster engagement, and build strong brand connections.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -63,7 +62,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Web Development</h3>
-                    <p>I have built a diverse array of web applications frfaDocker using modernct and Node.js. My proficiency spans the entire development process, from frontend design to backend integration, ensuring seamless and user-friendly digital experiences.</p>
+                    <p>I have developed a wide range of web applications using modern technologies like React and Node.js. My expertise covers the entire development lifecycle, from crafting intuitive front-end designs to implementing seamless back-end integrations, ensuring scalable and user-friendly digital experiences.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -75,7 +74,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Generative AI</h3>
-                    <p>I leverage cutting-edge AI models to build intelligent, cloud-enabled solutions faPythoner data-driveerience includes integrating Generative AI and Large Language Models (LLMs) into pipelines to enhance functionality and innovation.</p>
+                    <p>I utilize advanced AI models to develop intelligent, cloud-based solutions, with expertise in integrating Generative AI and Large Language Models (LLMs) into workflows to drive innovation and enhance functionality. My approach focuses on creating data-driven systems that streamline processes, improve user experiences, and enable smarter decision-making.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

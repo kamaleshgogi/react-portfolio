@@ -20,22 +20,22 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/kamaleshgogi/Flixmatch" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/kamaleshgogi/Flixmatch" target="_blank" rel="noreferrer"><h2>FlixMatch</h2></a>
-                <p>Worked on a personal project that reccomends movies that you would like based on your previous watch history and also keeps a catelog of all the movies you liked.</p>
+                <p>Developed a personal project that recommends movies based on your watch history and maintains a catalog of all the films you've enjoyed. Implemented personalized algorithms to enhance recommendation accuracy, improving user experience and engagement.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/kamaleshgogi/pokedex" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/kamaleshgogi/pokedex" target="_blank" rel="noreferrer"><h2>Pokedex</h2></a>
-                <p>Design and developed an interactive pokemon collections site which displays stats and keeps count of ur collected Pokemon.</p>
+                <p>Designed and built an interactive Pokémon collection site that displays stats and tracks the Pokémon you’ve collected. Integrated dynamic features for easy navigation and real-time updates to keep users engaged in their collection journey.</p>
             </div>
             <div className="project">
                 <a href="https://www.behance.net/gallery/219158795/Jump-radio-1069" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.behance.net/gallery/219158795/Jump-radio-1069" target="_blank" rel="noreferrer"><h2>Jump Radio 106.9 Brand Redesign</h2></a>
-                <p>Created a complete brand guide for the redesign and worked on a hifideliy wireframe on Figma to go along with the brand redesign.</p>
+                <p>Created a comprehensive brand guide for the redesign and designed high-fidelity wireframes in Figma to complement the new brand direction. Collaborated with the marketing team to ensure the new brand identity aligned with the station's vision and audience.</p>
             </div>
             <div className="project">
                 <a href="https://www.behance.net/gallery/218829203/Atom-App-Redesign" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.behance.net/gallery/218829203/Atom-App-Redesign" target="_blank" rel="noreferrer"><h2>Atom App redesign</h2></a>
-                <p>Worked on UI redesign for a ticketing company as a part of our college assignment</p>
+                <p>Worked on the UI redesign for a ticketing company as part of a college assignment. Focused on enhancing user experience through a more intuitive interface and streamlined ticket booking process, ensuring ease of use and a more visually appealing layout.</p>
             </div>
         </div>
     </div>
